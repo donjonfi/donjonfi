@@ -1,13 +1,8 @@
-# donjonfi-lib
-Librairie contenant les services permettant d’analyser de de jouer une fiction interactive créée avec DonjonFI.
+# DonjonFI
 
-## Compilation
-tsc
+DonjonFI vous permet d’écrire des fictions interactives et d’y jouer. Tout est en français.
 
-### Publier
-```bash
-npm run build
-npm publish --dry-run
-npm publish --access public
-npm install -g @donjonfi/core
-```
+Grâce aux outils fournis, vous pourrez concevoir votre jeu d’aventure textuel à analyseur syntaxique et le publier sur Internet.
+
+Site web: https://donjon.fi
+
