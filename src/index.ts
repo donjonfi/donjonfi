@@ -1,0 +1,3 @@
+
+export {getAppName} from './donjonfi'
+

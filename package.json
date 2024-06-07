@@ -1,0 +1,28 @@
+{
+  "name": "@donjonfi/core",
+  "version": "2024.6.1",
+  "description": "Librairie principale analyser et jouer les fictions interactives DonjonFI.",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "files": [
+    "/dist"
+  ],
+  "scripts": {
+    "build": "npx tsc",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Donjon FI",
+    "Donjon",
+    "donjonfi",
+    "djn",
+    "fiction interactive"
+  ],
+  "author": "Jonathan Claes",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/donjonfi/donjonfi-lib.git"
+  },
+  "homepage": "https://donjon.fi"
+}
